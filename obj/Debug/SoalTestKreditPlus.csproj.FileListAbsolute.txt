@@ -1,0 +1,7 @@
+C:\Users\Lisa\source\repos\SoalTestKreditPlus\SoalTestKreditPlus\bin\Debug\SoalTestKreditPlus.exe.config
+C:\Users\Lisa\source\repos\SoalTestKreditPlus\SoalTestKreditPlus\bin\Debug\SoalTestKreditPlus.exe
+C:\Users\Lisa\source\repos\SoalTestKreditPlus\SoalTestKreditPlus\bin\Debug\SoalTestKreditPlus.pdb
+C:\Users\Lisa\source\repos\SoalTestKreditPlus\SoalTestKreditPlus\obj\Debug\SoalTestKreditPlus.csprojAssemblyReference.cache
+C:\Users\Lisa\source\repos\SoalTestKreditPlus\SoalTestKreditPlus\obj\Debug\SoalTestKreditPlus.csproj.CoreCompileInputs.cache
+C:\Users\Lisa\source\repos\SoalTestKreditPlus\SoalTestKreditPlus\obj\Debug\SoalTestKreditPlus.exe
+C:\Users\Lisa\source\repos\SoalTestKreditPlus\SoalTestKreditPlus\obj\Debug\SoalTestKreditPlus.pdb
